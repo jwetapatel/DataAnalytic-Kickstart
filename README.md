@@ -1,2 +1,2 @@
-# DataAnalytic-Kickstart
+# Kickstarter-analysis
  Module Challenges
