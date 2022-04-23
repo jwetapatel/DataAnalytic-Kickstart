@@ -22,7 +22,6 @@ Followed below steps to generate the filter pivot chart :
 - Place the appropriate pivot table fields in the columns, rows, and values.
 - Filter the column labels to show only "successful," "failed," and "canceled."
 
-One of the challenge I faced during this exercise is to covert the Unix timestamps in to the date standard format. 
 
 ### Outcome based on goals
  
