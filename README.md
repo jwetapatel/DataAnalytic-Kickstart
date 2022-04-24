@@ -24,5 +24,14 @@ Followed below steps to generate the filter pivot chart :
 
 
 ### Outcome based on goals
+
+Now with the kickstarter data I started analysis of "Outcomes Based on Goals." and as per given data created the following dollar-amount ranges so projects can be grouped based on their goal amount and 
+Followed the below steps for above mention analysis:
+- In the new sheet create the columns to held the data of goal, number of successful, failed, canceled campaign also total number of projects, then calculate the percentage of succsessful, failed, canceled data
+- Use COUNTIFS() functions to populate the "Number Successful," "Number Failed," and "Number Canceled" columns by filtering on the Kickstarter "outcome" column, on the "goal" amount, and on the "Subcategory" column using "plays" as the criteria.  
+- Use the SUM() function to populate the "Total Projects" column for successful, failed, and canceled projects for each row.
+- Calculate the percentage of successful, failed, and canceled projects for each row
+- Created a line chart titled "Outcomes Based on Goal" to visualize the relationship between the goal-amount ranges and percentage of successful, failed, or canceled projects
+Graphical presentation of "Outcomes based on Goals" is shown as below.
  
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/96400887/164874637-1a48f049-a2e8-4136-af3e-1389c1ba8cb6.png)
