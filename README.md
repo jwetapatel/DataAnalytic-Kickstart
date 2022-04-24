@@ -32,7 +32,7 @@ Followed the below steps for above mention analysis:
 - Use the SUM() function to populate the "Total Projects" column for successful, failed, and canceled projects for each row.
 - Calculate the percentage of successful, failed, and canceled projects for each row
 - Created a line chart titled "Outcomes Based on Goal" to visualize the relationship between the goal-amount ranges and percentage of successful, failed, or canceled projects
-Graphical presentation of "Outcomes based on Goals" is shown as below.
+and Graphical presentation of "Outcomes based on Goals" is shown as below.
  
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/96400887/164874637-1a48f049-a2e8-4136-af3e-1389c1ba8cb6.png)
 
