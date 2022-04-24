@@ -35,3 +35,31 @@ Followed the below steps for above mention analysis:
 Graphical presentation of "Outcomes based on Goals" is shown as below.
  
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/96400887/164874637-1a48f049-a2e8-4136-af3e-1389c1ba8cb6.png)
+
+### Challenges and Difficulties Encountered
+## Results
+### Two conclusions are made about the Theater Outcomes by Launch Date
+- Theater categoty is most successful compare to other categories.
+- Most successful months for the Louise campaign were May-July/
+
+### One conclusion is made about the Outcomes based on Goals
+- Most successful goals were between 1000 - 4999 and the failed goal were > 45000
+
+### What are some limitations of this dataset?
+- We dont find details about the preferred investor and also dont know expenses involved in the campaign.
+- Comparision is done on differnt currency unit hence data seems not accurate. Better option is to keep unit same.
+
+### What are some other possible tables and/or graphs that we could create?
+- ParentCategory Outcome pivot chart
+
+![Parent Category outcomes](https://user-images.githubusercontent.com/96400887/164954936-ba77d665-a286-4d8e-be7a-38176d059960.png)
+
+- Box plot to analyze mean, median and quartile range
+
+![Box Plot](https://user-images.githubusercontent.com/96400887/164955019-7c128a9f-b471-4214-bd5a-1ed584350408.png)
+
+- Category statistic outcome pivot chart for USA
+
+![Catagory Statistics_Outcomes based on USA](https://user-images.githubusercontent.com/96400887/164955082-431fde06-ab5a-4a4e-b4c7-98f8322bf823.png)
+
+
