@@ -7,7 +7,7 @@ Louise’s play "Fever" came close to its fundraising goal in a short amount of 
 
 ## Analysis and Challenges 
 
-### Theater outcome by Launch date
+### Theater outcomes by Launch date
 
 With the existing Kickstarter data, I started analyzing for Louise's crowdfunding campaign in excel. 
 To reach to the conclusion first I filter the data based on parent categories and year.
