@@ -10,7 +10,7 @@ Louise’s play "Fever" came close to its fundraising goal in a short amount of 
 ### Theater outcomes by Launch date
 
 With the existing Kickstarter data, I started analyzing for Louise's crowdfunding campaign in excel. 
-To reach to the conclusion first I filter the data based on parent categories and year.
+To reach to the conclusion first I filtered the data based on parent categories and year.
 Based on above filtering we analyze the theater outcomes by launch date (i.e., successful, failed or canceled). The graphical presentation is shown as below.
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/96400887/164874623-7cf876a8-1705-454d-9a6d-6dbc38c3a544.png)
@@ -44,7 +44,7 @@ and Graphical presentation of "Outcomes based on Goals" is shown as below.
 ## Results
 ### Two conclusions are made about the Theater Outcomes by Launch Date
 - Theater category is most successful compared to other categories.
-- Most successful months for the Louise campaign were May-July/
+- Most successful months for the Louise campaign were in May-July.
 
 ### One conclusion is made about the Outcomes based on Goals
 - Most successful goals were between 1000 - 4999 and the failed goal were > 45000
