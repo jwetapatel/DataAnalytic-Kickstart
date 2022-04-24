@@ -37,9 +37,9 @@ Graphical presentation of "Outcomes based on Goals" is shown as below.
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/96400887/164874637-1a48f049-a2e8-4136-af3e-1389c1ba8cb6.png)
 
 ### Challenges and Difficulties Encountered
-- One of the challenge I faced while solving the module was to convert the unix timestamp in to standard date format. It tool some time to understand the equation and covert it.
+- One of the challenge I faced while solving the module was to convert the unix timestamp in to standard date format. It took some time to understand the equation and convert it.
 - Another challenge encounter was divide by zero error while using the excel average function. I drag the equation in all the rows but as it was going out of bound results in to !REF error. 
-- To get the correct comparision out I have used the COUNTIF equation but was not getting the desired results. One of the main reason was instead of <= and/or >= I have used < and/or > . After correcting and evaluationg the equation got the correct answers. 
+- To get the correct comparision of "outcome based goals" challenge, I have used the COUNTIF equation but was not getting the desired results. One of the main reason was instead of <= and/or >= I have used < and/or > . After correcting and evaluationg the equation got the correct answers. 
 
 ## Results
 ### Two conclusions are made about the Theater Outcomes by Launch Date
